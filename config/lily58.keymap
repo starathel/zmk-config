@@ -43,7 +43,7 @@
 &trans         &trans       &trans       &trans           &trans         &trans                                                  &trans                 &trans          &trans  &trans  &trans        &trans
 &kp TILDE      &kp DOLLAR   &kp PAGE_UP  &kp UP           &kp PAGE_DOWN  &kp LEFT_PARENTHESIS                                    &kp RIGHT_PARENTHESIS  &kp N7          &kp N8  &kp N9  &kp KP_PLUS   &kp GRAVE
 &kp AMPERSAND  &kp PERCENT  &kp LEFT     &kp DOWN         &kp RIGHT      &kp LEFT_BRACKET                                        &kp RIGHT_BRACKET      &kp N4          &kp N5  &kp N6  &kp KP_MINUS  &kp KP_MULTIPLY
-&trans         &kp CARET    &kp HOME     &kp PRINTSCREEN  &kp END        &kp LEFT_BRACE        &kp KP_MULTIPLY    &kp AMPERSAND  &kp RIGHT_BRACE        &kp N1          &kp N2  &kp N3  &kp KP_EQUAL  &trans
+&trans         &kp CARET    &kp HOME     &kp PRINTSCREEN  &kp END        &kp LEFT_BRACE        &kp KP_MULTIPLY    &kp AMPERSAND  &kp RIGHT_BRACE        &kp N1          &kp N2  &kp N3  &kp EQUAL     &trans
                                          &trans           &trans         &trans                &kp SPACE          &kp ENTER      &trans                 &kp LEFT_SHIFT  &trans
             >;
 
@@ -62,7 +62,7 @@
 &trans  &trans       &trans      &trans           &trans                &trans                          &trans  &trans                 &trans       &trans     &trans         &trans
 &trans  &kp PIPE     &kp DOLLAR  &kp EXCLAMATION  &kp LEFT_PARENTHESIS  &trans                          &trans  &kp RIGHT_PARENTHESIS  &kp AT_SIGN  &kp POUND  &kp BACKSLASH  &trans
 &trans  &kp MINUS    &kp CARET   &kp AMPERSAND    &kp LEFT_BRACKET      &trans                          &trans  &kp RIGHT_BRACKET      &kp PERCENT  &kp ASTRK  &kp UNDER      &trans
-&trans  &kp KP_PLUS  &kp GRAVE   &kp TILDE        &kp LEFT_BRACE        &trans  &trans       &trans     &trans  &kp RIGHT_BRACE        &trans       &trans     &kp KP_EQUAL   &trans
+&trans  &kp KP_PLUS  &kp GRAVE   &kp TILDE        &kp LEFT_BRACE        &trans  &trans       &trans     &trans  &kp RIGHT_BRACE        &trans       &trans     &kp EQUAL      &trans
                                  &trans           &trans                &trans  &kp SPACE    &kp ENTER  &trans  &trans                 &trans
             >;
 
